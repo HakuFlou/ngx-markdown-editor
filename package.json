@@ -1,0 +1,93 @@
+{
+  "_from": "ngx-markdown-editor",
+  "_id": "ngx-markdown-editor@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-3m40JH0moM6YHpK1XORnNHKVfy4fGSrS0TRp34fHQIa5jMFm4poUPuxEvbNHqVwa3xXrZAC/ocj4H5zXuLVbxQ==",
+  "_location": "/ngx-markdown-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-markdown-editor",
+    "name": "ngx-markdown-editor",
+    "escapedName": "ngx-markdown-editor",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-markdown-editor/-/ngx-markdown-editor-1.2.0.tgz",
+  "_shasum": "f72c9c481df5f1a5ef301541d2f8bcd83882f0d9",
+  "_spec": "ngx-markdown-editor",
+  "_where": "/home/christian/Developer/checkin/checkin-web-client",
+  "author": {
+    "name": "Lon.L.Yang"
+  },
+  "bugs": {
+    "url": "https://github.com/lon-yang/ngx-markdown-editor/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "Angular markdown editor based on ace editor",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.11.4",
+    "@angular/animations": "^7.1.0",
+    "@angular/common": "^7.1.0",
+    "@angular/compiler": "^7.1.0",
+    "@angular/compiler-cli": "^7.1.0",
+    "@angular/core": "^7.1.0",
+    "@angular/forms": "^7.1.0",
+    "@angular/http": "^7.1.0",
+    "@angular/language-service": "^7.1.2",
+    "@angular/platform-browser": "^7.1.0",
+    "@angular/platform-browser-dynamic": "^7.1.0",
+    "@angular/router": "^7.1.0",
+    "@types/node": "^10.12.12",
+    "core-js": "^2.6.0",
+    "ng-packagr": "^4.4.5",
+    "rxjs": "^6.3.3",
+    "ts-node": "^7.0.1",
+    "tsickle": "^0.34.0",
+    "tslint": "^5.12.0",
+    "typescript": "^3.1.6",
+    "zone.js": "^0.8.26"
+  },
+  "es2015": "fesm2015/ngx-markdown-editor.js",
+  "esm2015": "esm2015/ngx-markdown-editor.js",
+  "esm5": "esm5/ngx-markdown-editor.js",
+  "fesm2015": "fesm2015/ngx-markdown-editor.js",
+  "fesm5": "fesm5/ngx-markdown-editor.js",
+  "homepage": "https://github.com/lon-yang/ngx-markdown-editor#readme",
+  "keywords": [
+    "markdown",
+    "markdown editor",
+    "md editor",
+    "ace",
+    "angular",
+    "angular x"
+  ],
+  "license": "Apache License 2.0",
+  "main": "bundles/ngx-markdown-editor.umd.js",
+  "metadata": "ngx-markdown-editor.metadata.json",
+  "module": "fesm5/ngx-markdown-editor.js",
+  "name": "ngx-markdown-editor",
+  "peerDependencies": {
+    "@angular/common": ">=7.0.0",
+    "@angular/core": ">=7.0.0",
+    "@angular/forms": ">=7.0.0",
+    "@angular/platform-browser": ">=7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lon-yang/ngx-markdown-editor.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-markdown-editor.d.ts",
+  "version": "1.2.0"
+}
